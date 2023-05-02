@@ -1,0 +1,12 @@
+.grid {
+  width: 400px;
+}
+
+.pokeCard {
+  width: 150px;
+  height: 150px;
+}
+
+.pokeImage {
+  width: 75px;
+}
